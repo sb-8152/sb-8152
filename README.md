@@ -1,36 +1,41 @@
 <!--
-  👆 该文件作为你的 GitHub 个人主页展示，仓库名需与你的 GitHub 用户名一致
-  请替换以下内容：
-  1. `YOUR_GITHUB_USERNAME` → 你的 GitHub 用户名
-  2. 统计卡片中的占位符
-  3. CSDN 链接 → 你的博客真实地址
+  个人主页 README —— 仓库名需与你的 GitHub 用户名一致
+  替换：YOUR_GITHUB_USERNAME、CSDN 链接
 -->
 
-<h1 align="center">你好，我是吴玉聪 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>后端开发实习生</b> ｜ 男 · 19 岁 ｜ 随时到岗
-</p>
+# 👋 你好，我是吴玉聪
 
-<p align="center">
-  📱 13455586951 ｜ ✉️ <a href="mailto:3337150152@qq.com">3337150152@qq.com</a>
-</p>
+
+<a href="tel:13455586951">
+  <img src="https://img.shields.io/badge/%F0%9F%93%B1_13455586951-0A0A0A?style=for-the-badge&color=333" alt="Phone" />
+</a>
+<a href="mailto:3337150152@qq.com">
+  <img src="https://img.shields.io/badge/%F0%9F%93%A7_3337150152%40qq.com-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335" alt="Email" />
+</a>
+
+</div>
 
 ---
 
 ## 🎓 教育背景
 
-**齐鲁工业大学（山东省科学院）** — 物联网工程 · 本科（2024.09 - 2028.07）
+| | |
+|---|---|
+| **学校** | 齐鲁工业大学（山东省科学院） |
 
 ## 📝 技术积累
 
 持续输出后端技术博客，累计发布 **70+** 篇原创文章，总阅读量 **4w+**：
 
-[![CSDN](https://img.shields.io/badge/CSDN-番茄去哪了-FF6600?style=for-the-badge)](https://blog.csdn.net/你的用户名)
+<a href="https://blog.csdn.net/你的用户名">
+  <img src="https://img.shields.io/badge/CSDN-番茄去哪了-FF6600?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTQuNSA2Ljd2MTAuNmMwIC43LjYgMS4yIDEuMyAxLjJoMTIuNGMuNyAwIDEuMy0uNSAxLjMtMS4yVjYuN2MwLS43LS42LTEuMi0xLjMtMS4ySDUuOGMtLjcgMC0xLjMuNS0xLjMgMS4yem01LjMgMy4zYzAtLjMuMi0uNS41LS41aDQuNWMuMyAwIC41LjIuNS41djMuNGMwIC4zLS4yLjUtLjUuNWgtNC41Yy0uMyAwLS41LS4yLS41LS41VjEweiIvPjwvc3ZnPg==" alt="CSDN 番茄去哪了" />
+</a>
 
 ## 🛠️ 技术栈
 
-**语言与框架**
+#### ☕ 语言与框架
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -38,7 +43,7 @@
 ![LangChain4j](https://img.shields.io/badge/LangChain4j-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=websocket&logoColor=white)
 
-**数据与中间件**
+#### 🗄️ 数据与中间件
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
@@ -48,7 +53,7 @@
 ![Nacos](https://img.shields.io/badge/Nacos-5B7DB1?style=for-the-badge)
 ![Seata](https://img.shields.io/badge/Seata-C02418?style=for-the-badge)
 
-**DevOps 与工具**
+#### 🚀 DevOps 与工具
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
@@ -58,5 +63,6 @@
 
 ---
 
+<p align="center"><i>Stay hungry, stay foolish. 🚀</i></p>
 
 
