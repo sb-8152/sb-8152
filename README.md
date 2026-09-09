@@ -1,10 +1,9 @@
 <div align="center">
   <img src="https://github.com/sb-8152.png" width="150" height="150" style="border-radius: 50%;" />
-  <h1>羊驼 (sb-8152)</h1>
+  <h1>Hi there 👋</h1>
   <p><strong>Backend Technology Enthusiast</strong></p>
-  <p><em>“相信相信的力量”</em></p>
 
-  <!-- 动态数据（已直接绑定你的用户名） -->
+  <!-- 动态数据 -->
   <img src="https://github-readme-stats.vercel.app/api?username=sb-8152&show_icons=true&theme=radical&hide_border=true" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sb-8152&layout=compact&theme=radical&hide_border=true" />
@@ -14,7 +13,7 @@
 
 ---
 
-### 🐍 贪吃蛇动态特效（需运行一次，见第二步）
+### 🐍 贪吃蛇动态特效
 <p align="center">
   <img src="https://raw.githubusercontent.com/sb-8152/sb-8152/output/snake.svg" alt="Snake animation" />
 </p>
@@ -37,18 +36,6 @@
 
 ---
 
-### 🏆 Achievements
-- 🥇 ICPC Regional Medalist
-- 📝 [Blog CSDN](https://blog.csdn.net/qq_67081703?spm=1001.2101.3001.10640)
-- 🧩 Codeforces [点我查看](https://codeforces.com/) *(截图里没有具体链接，你只需替换括号里的地址即可)*
-
-### ✨ Highlights
-- 💻 Backend Technology Enthusiast
-- 🚀 Constantly learning and building.
-
----
-
-### 📫 How to reach me
-- 📧 **Email**: 3337150152@qq.com
-- 🏫 **University**: Qilu University of Technology, Jinan, Shandong
-- 📝 **Blog**: [CSDN Blog](https://blog.csdn.net/qq_67081703?spm=1001.2101.3001.10640)
+### 📫 Contact
+- 📧 **Email**: [your_email@example.com](mailto:your_email@example.com)
+- 🏫 **Blog**: [Your Blog/Website](https://example.com)
