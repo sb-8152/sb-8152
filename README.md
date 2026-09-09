@@ -33,17 +33,22 @@
 </a>
 
 ## 🛠️ 技术栈
-
 ### ☕ 语言与框架
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![LangChain4j](https://img.shields.io/badge/LangChain4j-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=websocket&logoColor=white)
-
+### 🤖 AI Agent
+![AI Agent](https://img.shields.io/badge/AI_Agent-6C5CE7?style=for-the-badge)
+![Multi-Agent](https://img.shields.io/badge/Multi-Agent-6C5CE7?style=for-the-badge)
+![ReAct](https://img.shields.io/badge/ReAct-6C5CE7?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-6C5CE7?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-6C5CE7?style=for-the-badge)
+![Claude Code](https://img.shields.io/badge/Claude_Code-6C5CE7?style=for-the-badge)
+![Codex](https://img.shields.io/badge/Codex-6C5CE7?style=for-the-badge)
+![Cursor](https://img.shields.io/badge/Cursor-6C5CE7?style=for-the-badge)
 ### 🗄️ 数据与中间件
-
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -51,15 +56,12 @@
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Nacos](https://img.shields.io/badge/Nacos-5B7DB1?style=for-the-badge)
 ![Seata](https://img.shields.io/badge/Seata-C02418?style=for-the-badge)
-
 ### 🚀 DevOps 与工具
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 ---
 
 <p align="center"><i>Stay hungry, stay foolish. 🚀</i></p>
