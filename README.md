@@ -3,31 +3,26 @@
   替换：YOUR_GITHUB_USERNAME、CSDN 链接
 -->
 
-<div align="center">
+<h1 align="center">👋 你好，我是吴玉聪</h1>
 
-# 👋 你好，我是吴玉聪
-> ## ✨ 座右铭
->
-> **相信相信的力量**
----
+<p align="center">
+  <b>✨ 相信相信的力量 ✨</b>
+</p>
 
-
-<a href="tel:13455586951">
-  <img src="https://img.shields.io/badge/%F0%9F%93%B1_13455586951-0A0A0A?style=for-the-badge&color=333" alt="Phone" />
-</a>
-<a href="mailto:3337150152@qq.com">
-  <img src="https://img.shields.io/badge/%F0%9F%93%A7_3337150152%40qq.com-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335" alt="Email" />
-</a>
-
-</div>
+<p align="center">
+  <a href="tel:13455586951">
+    <img src="https://img.shields.io/badge/%F0%9F%93%B1_13455586951-0A0A0A?style=for-the-badge&color=333" alt="Phone" />
+  </a>
+  <a href="mailto:3337150152@qq.com">
+    <img src="https://img.shields.io/badge/%F0%9F%93%A7_3337150152%40qq.com-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335" alt="Email" />
+  </a>
+</p>
 
 ---
 
 ## 🎓 教育背景
 
-| | |
-|---|---|
-| **学校** | 齐鲁工业大学（山东省科学院） |
+**🏫 齐鲁工业大学（山东省科学院）**
 
 ## 📝 技术积累
 
@@ -39,7 +34,7 @@
 
 ## 🛠️ 技术栈
 
-#### ☕ 语言与框架
+### ☕ 语言与框架
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -47,7 +42,7 @@
 ![LangChain4j](https://img.shields.io/badge/LangChain4j-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=websocket&logoColor=white)
 
-#### 🗄️ 数据与中间件
+### 🗄️ 数据与中间件
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
@@ -57,7 +52,7 @@
 ![Nacos](https://img.shields.io/badge/Nacos-5B7DB1?style=for-the-badge)
 ![Seata](https://img.shields.io/badge/Seata-C02418?style=for-the-badge)
 
-#### 🚀 DevOps 与工具
+### 🚀 DevOps 与工具
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
